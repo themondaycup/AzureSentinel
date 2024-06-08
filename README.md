@@ -68,6 +68,13 @@ Huge thanks to Josh Madakor for creating this awesome lab! It was really fun to 
 
 ![](images/Waiting%20for%20custom%20log%20to%20populate.jpg)
 
+![](images/Waiting%20for%20custom%20log%20to%20populate%20-%20test%202.jpg)
+
 ### Map on inital set-up
 
 ![](images/Map1.jpg)
+
+### End of Project
+>left the VM running for roughly 4 hours before stopping it. This was my final results
+
+![](images/map2.png)
